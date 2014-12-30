@@ -1,0 +1,68 @@
+Initialize engine version: 4.6.0f3 (30840d631a27)
+GfxDevice: creating device client; threaded=1
+Direct3D:
+    Version:  Direct3D 9.0c [igdumd32.dll 9.17.10.3517]
+    Renderer: Intel(R) HD Graphics 3000
+    Vendor:   Intel
+    VRAM:     880 MB (via DXGI)
+    Caps:     Shader=30 DepthRT=1 NativeDepth=1 NativeShadow=1 DF16=1 INTZ=1 RAWZ=0 NULL=1 RESZ=1 SlowINTZ=0
+Begin MonoManager ReloadAssembly
+Platform assembly: E:\Unity_Projects\DimensionBusters\Builds\DimensionBusters_Data\Managed\UnityEngine.dll (this message is harmless)
+Loading E:\Unity_Projects\DimensionBusters\Builds\DimensionBusters_Data\Managed\UnityEngine.dll into Unity Child Domain
+Platform assembly: E:\Unity_Projects\DimensionBusters\Builds\DimensionBusters_Data\Managed\Assembly-CSharp-firstpass.dll (this message is harmless)
+Loading E:\Unity_Projects\DimensionBusters\Builds\DimensionBusters_Data\Managed\Assembly-CSharp-firstpass.dll into Unity Child Domain
+Platform assembly: E:\Unity_Projects\DimensionBusters\Builds\DimensionBusters_Data\Managed\Assembly-CSharp.dll (this message is harmless)
+Loading E:\Unity_Projects\DimensionBusters\Builds\DimensionBusters_Data\Managed\Assembly-CSharp.dll into Unity Child Domain
+Platform assembly: E:\Unity_Projects\DimensionBusters\Builds\DimensionBusters_Data\Managed\Assembly-UnityScript.dll (this message is harmless)
+Loading E:\Unity_Projects\DimensionBusters\Builds\DimensionBusters_Data\Managed\Assembly-UnityScript.dll into Unity Child Domain
+Platform assembly: E:\Unity_Projects\DimensionBusters\Builds\DimensionBusters_Data\Managed\UnityEngine.UI.dll (this message is harmless)
+Loading E:\Unity_Projects\DimensionBusters\Builds\DimensionBusters_Data\Managed\UnityEngine.UI.dll into Unity Child Domain
+Platform assembly: E:\Unity_Projects\DimensionBusters\Builds\DimensionBusters_Data\Managed\Photon3Unity3D.dll (this message is harmless)
+Loading E:\Unity_Projects\DimensionBusters\Builds\DimensionBusters_Data\Managed\Photon3Unity3D.dll into Unity Child Domain
+- Completed reload, in  0.056 seconds
+desktop: 1600x900 60Hz; virtual: 1600x900 at 0,0
+<RI> Initializing input.
+<RI> Input initialized.
+Initialize engine version: 4.6.0f3 (30840d631a27)
+GfxDevice: creating device client; threaded=1
+Direct3D:
+    Version:  Direct3D 9.0c [igdumd32.dll 9.17.10.3517]
+    Renderer: Intel(R) HD Graphics 3000
+    Vendor:   Intel
+    VRAM:     880 MB (via DXGI)
+    Caps:     Shader=30 DepthRT=1 NativeDepth=1 NativeShadow=1 DF16=1 INTZ=1 RAWZ=0 NULL=1 RESZ=1 SlowINTZ=0
+Begin MonoManager ReloadAssembly
+Platform assembly: E:\Unity_Projects\DimensionBusters\Builds\DimensionBusters_Data\Managed\UnityEngine.dll (this message is harmless)
+Loading E:\Unity_Projects\DimensionBusters\Builds\DimensionBusters_Data\Managed\UnityEngine.dll into Unity Child Domain
+Platform assembly: E:\Unity_Projects\DimensionBusters\Builds\DimensionBusters_Data\Managed\Assembly-CSharp-firstpass.dll (this message is harmless)
+Loading E:\Unity_Projects\DimensionBusters\Builds\DimensionBusters_Data\Managed\Assembly-CSharp-firstpass.dll into Unity Child Domain
+Platform assembly: E:\Unity_Projects\DimensionBusters\Builds\DimensionBusters_Data\Managed\Assembly-CSharp.dll (this message is harmless)
+Loading E:\Unity_Projects\DimensionBusters\Builds\DimensionBusters_Data\Managed\Assembly-CSharp.dll into Unity Child Domain
+Platform assembly: E:\Unity_Projects\DimensionBusters\Builds\DimensionBusters_Data\Managed\Assembly-UnityScript.dll (this message is harmless)
+Loading E:\Unity_Projects\DimensionBusters\Builds\DimensionBusters_Data\Managed\Assembly-UnityScript.dll into Unity Child Domain
+Platform assembly: E:\Unity_Projects\DimensionBusters\Builds\DimensionBusters_Data\Managed\UnityEngine.UI.dll (this message is harmless)
+Loading E:\Unity_Projects\DimensionBusters\Builds\DimensionBusters_Data\Managed\UnityEngine.UI.dll into Unity Child Domain
+Platform assembly: E:\Unity_Projects\DimensionBusters\Builds\DimensionBusters_Data\Managed\Photon3Unity3D.dll (this message is harmless)
+Loading E:\Unity_Projects\DimensionBusters\Builds\DimensionBusters_Data\Managed\Photon3Unity3D.dll into Unity Child Domain
+- Completed reload, in  0.089 seconds
+desktop: 1600x900 60Hz; virtual: 1600x900 at 0,0
+<RI> Initializing input.
+<RI> Input initialized.
+Platform assembly: E:\Unity_Projects\DimensionBusters\Builds\DimensionBusters_Data\Managed\System.Core.dll (this message is harmless)
+Platform assembly: E:\Unity_Projects\DimensionBusters\Builds\DimensionBusters_Data\Managed\System.dll (this message is harmless)
+Joined Lobby
+ 
+(Filename: C:/BuildAgent/work/d63dfc6385190b60/artifacts/StandalonePlayerGenerated/UnityEngineDebug.cpp Line: 49)
+
+Creating Room
+ 
+(Filename: C:/BuildAgent/work/d63dfc6385190b60/artifacts/StandalonePlayerGenerated/UnityEngineDebug.cpp Line: 49)
+
+Platform assembly: E:\Unity_Projects\DimensionBusters\Builds\DimensionBusters_Data\Managed\Boo.Lang.dll (this message is harmless)
+Platform assembly: E:\Unity_Projects\DimensionBusters\Builds\DimensionBusters_Data\Managed\System.Core.dll (this message is harmless)
+Platform assembly: E:\Unity_Projects\DimensionBusters\Builds\DimensionBusters_Data\Managed\System.dll (this message is harmless)
+Joined Lobby
+ 
+(Filename: C:/BuildAgent/work/d63dfc6385190b60/artifacts/StandalonePlayerGenerated/UnityEngineDebug.cpp Line: 49)
+
+Platform assembly: E:\Unity_Projects\DimensionBusters\Builds\DimensionBusters_Data\Managed\Boo.Lang.dll (this message is harmless)
