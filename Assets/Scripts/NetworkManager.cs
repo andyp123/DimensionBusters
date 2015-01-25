@@ -4,6 +4,7 @@ using System.Collections;
 public class NetworkManager : MonoBehaviour
 {
 	public GameObject LevelCamera = null;
+	public bool offlineMode = false;
 	SpawnPoint[] spawnPoints = null;
 
 	void Start()
@@ -14,7 +15,15 @@ public class NetworkManager : MonoBehaviour
 
 	void Connect()
 	{
-		PhotonNetwork.ConnectUsingSettings("DimensionBusters 0.0.1");
+		if(offlineMode)
+		{
+			PhotonNetwork.offlineMode = true;
+			OnJoinedLobby();
+		}
+		else
+		{
+			PhotonNetwork.ConnectUsingSettings("DimensionBusters 0.0.1");
+		}
 	}
 
 	void OnGUI()
@@ -53,6 +62,7 @@ public class NetworkManager : MonoBehaviour
 		((MonoBehaviour)player.GetComponent("CharacterMotor")).enabled = true;
 		((MonoBehaviour)player.GetComponent("FPSInputController")).enabled = true;
 		((MonoBehaviour)player.GetComponent("MouseLook")).enabled = true;
+		((MonoBehaviour)player.GetComponent("PlayerShooting")).enabled = true;
 		player.transform.FindChild("Camera").gameObject.SetActive(true);
 
 		//disable level camera

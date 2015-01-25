@@ -19,10 +19,77 @@ Platform assembly: E:\Unity_Projects\DimensionBusters\Builds\DimensionBusters_Da
 Loading E:\Unity_Projects\DimensionBusters\Builds\DimensionBusters_Data\Managed\UnityEngine.UI.dll into Unity Child Domain
 Platform assembly: E:\Unity_Projects\DimensionBusters\Builds\DimensionBusters_Data\Managed\Photon3Unity3D.dll (this message is harmless)
 Loading E:\Unity_Projects\DimensionBusters\Builds\DimensionBusters_Data\Managed\Photon3Unity3D.dll into Unity Child Domain
-- Completed reload, in  0.056 seconds
+- Completed reload, in  0.048 seconds
 desktop: 1600x900 60Hz; virtual: 1600x900 at 0,0
 <RI> Initializing input.
 <RI> Input initialized.
+Platform assembly: E:\Unity_Projects\DimensionBusters\Builds\DimensionBusters_Data\Managed\System.Core.dll (this message is harmless)
+Platform assembly: E:\Unity_Projects\DimensionBusters\Builds\DimensionBusters_Data\Managed\System.dll (this message is harmless)
+Joined Lobby
+ 
+(Filename: C:/BuildAgent/work/d63dfc6385190b60/artifacts/StandalonePlayerGenerated/UnityEngineDebug.cpp Line: 49)
+
+Creating Room
+ 
+(Filename: C:/BuildAgent/work/d63dfc6385190b60/artifacts/StandalonePlayerGenerated/UnityEngineDebug.cpp Line: 49)
+
+Platform assembly: E:\Unity_Projects\DimensionBusters\Builds\DimensionBusters_Data\Managed\Boo.Lang.dll (this message is harmless)
+hit Capsule (distance: 11.36053)
+ 
+(Filename: C:/BuildAgent/work/d63dfc6385190b60/artifacts/StandalonePlayerGenerated/UnityEngineDebug.cpp Line: 49)
+
+hit Capsule (distance: 11.34194)
+ 
+(Filename: C:/BuildAgent/work/d63dfc6385190b60/artifacts/StandalonePlayerGenerated/UnityEngineDebug.cpp Line: 49)
+
+hit Capsule (distance: 10.71907)
+ 
+(Filename: C:/BuildAgent/work/d63dfc6385190b60/artifacts/StandalonePlayerGenerated/UnityEngineDebug.cpp Line: 49)
+
+hit Crate (distance: 9.307557)
+ 
+(Filename: C:/BuildAgent/work/d63dfc6385190b60/artifacts/StandalonePlayerGenerated/UnityEngineDebug.cpp Line: 49)
+
+Took 20 damage. 80 health remaining
+ 
+(Filename: C:/BuildAgent/work/d63dfc6385190b60/artifacts/StandalonePlayerGenerated/UnityEngineDebug.cpp Line: 49)
+
+hit Crate (distance: 9.353065)
+ 
+(Filename: C:/BuildAgent/work/d63dfc6385190b60/artifacts/StandalonePlayerGenerated/UnityEngineDebug.cpp Line: 49)
+
+Took 20 damage. 60 health remaining
+ 
+(Filename: C:/BuildAgent/work/d63dfc6385190b60/artifacts/StandalonePlayerGenerated/UnityEngineDebug.cpp Line: 49)
+
+hit Crate (distance: 9.353065)
+ 
+(Filename: C:/BuildAgent/work/d63dfc6385190b60/artifacts/StandalonePlayerGenerated/UnityEngineDebug.cpp Line: 49)
+
+Took 20 damage. 40 health remaining
+ 
+(Filename: C:/BuildAgent/work/d63dfc6385190b60/artifacts/StandalonePlayerGenerated/UnityEngineDebug.cpp Line: 49)
+
+hit Crate (distance: 9.353065)
+ 
+(Filename: C:/BuildAgent/work/d63dfc6385190b60/artifacts/StandalonePlayerGenerated/UnityEngineDebug.cpp Line: 49)
+
+Took 20 damage. 20 health remaining
+ 
+(Filename: C:/BuildAgent/work/d63dfc6385190b60/artifacts/StandalonePlayerGenerated/UnityEngineDebug.cpp Line: 49)
+
+hit Crate (distance: 9.336167)
+ 
+(Filename: C:/BuildAgent/work/d63dfc6385190b60/artifacts/StandalonePlayerGenerated/UnityEngineDebug.cpp Line: 49)
+
+Took 20 damage. 0 health remaining
+ 
+(Filename: C:/BuildAgent/work/d63dfc6385190b60/artifacts/StandalonePlayerGenerated/UnityEngineDebug.cpp Line: 49)
+
+Destroying GO as global. ID: 1
+ 
+(Filename: C:/BuildAgent/work/d63dfc6385190b60/artifacts/StandalonePlayerGenerated/UnityEngineDebug.cpp Line: 49)
+
 Initialize engine version: 4.6.0f3 (30840d631a27)
 GfxDevice: creating device client; threaded=1
 Direct3D:
@@ -44,7 +111,7 @@ Platform assembly: E:\Unity_Projects\DimensionBusters\Builds\DimensionBusters_Da
 Loading E:\Unity_Projects\DimensionBusters\Builds\DimensionBusters_Data\Managed\UnityEngine.UI.dll into Unity Child Domain
 Platform assembly: E:\Unity_Projects\DimensionBusters\Builds\DimensionBusters_Data\Managed\Photon3Unity3D.dll (this message is harmless)
 Loading E:\Unity_Projects\DimensionBusters\Builds\DimensionBusters_Data\Managed\Photon3Unity3D.dll into Unity Child Domain
-- Completed reload, in  0.089 seconds
+- Completed reload, in  0.053 seconds
 desktop: 1600x900 60Hz; virtual: 1600x900 at 0,0
 <RI> Initializing input.
 <RI> Input initialized.
@@ -54,15 +121,80 @@ Joined Lobby
  
 (Filename: C:/BuildAgent/work/d63dfc6385190b60/artifacts/StandalonePlayerGenerated/UnityEngineDebug.cpp Line: 49)
 
-Creating Room
+Platform assembly: E:\Unity_Projects\DimensionBusters\Builds\DimensionBusters_Data\Managed\Boo.Lang.dll (this message is harmless)
+hit nothing
  
 (Filename: C:/BuildAgent/work/d63dfc6385190b60/artifacts/StandalonePlayerGenerated/UnityEngineDebug.cpp Line: 49)
 
-Platform assembly: E:\Unity_Projects\DimensionBusters\Builds\DimensionBusters_Data\Managed\Boo.Lang.dll (this message is harmless)
-Platform assembly: E:\Unity_Projects\DimensionBusters\Builds\DimensionBusters_Data\Managed\System.Core.dll (this message is harmless)
-Platform assembly: E:\Unity_Projects\DimensionBusters\Builds\DimensionBusters_Data\Managed\System.dll (this message is harmless)
-Joined Lobby
+hit PlayerController(Clone) (distance: 2.348822)
  
 (Filename: C:/BuildAgent/work/d63dfc6385190b60/artifacts/StandalonePlayerGenerated/UnityEngineDebug.cpp Line: 49)
 
-Platform assembly: E:\Unity_Projects\DimensionBusters\Builds\DimensionBusters_Data\Managed\Boo.Lang.dll (this message is harmless)
+Took 20 damage. 80 health remaining
+ 
+(Filename: C:/BuildAgent/work/d63dfc6385190b60/artifacts/StandalonePlayerGenerated/UnityEngineDebug.cpp Line: 49)
+
+Took 20 damage. 80 health remaining
+ 
+(Filename: C:/BuildAgent/work/d63dfc6385190b60/artifacts/StandalonePlayerGenerated/UnityEngineDebug.cpp Line: 49)
+
+hit PlayerController(Clone) (distance: 5.716188)
+ 
+(Filename: C:/BuildAgent/work/d63dfc6385190b60/artifacts/StandalonePlayerGenerated/UnityEngineDebug.cpp Line: 49)
+
+Took 20 damage. 60 health remaining
+ 
+(Filename: C:/BuildAgent/work/d63dfc6385190b60/artifacts/StandalonePlayerGenerated/UnityEngineDebug.cpp Line: 49)
+
+Took 20 damage. 60 health remaining
+ 
+(Filename: C:/BuildAgent/work/d63dfc6385190b60/artifacts/StandalonePlayerGenerated/UnityEngineDebug.cpp Line: 49)
+
+hit PlayerController(Clone) (distance: 5.716188)
+ 
+(Filename: C:/BuildAgent/work/d63dfc6385190b60/artifacts/StandalonePlayerGenerated/UnityEngineDebug.cpp Line: 49)
+
+Took 20 damage. 40 health remaining
+ 
+(Filename: C:/BuildAgent/work/d63dfc6385190b60/artifacts/StandalonePlayerGenerated/UnityEngineDebug.cpp Line: 49)
+
+Took 20 damage. 40 health remaining
+ 
+(Filename: C:/BuildAgent/work/d63dfc6385190b60/artifacts/StandalonePlayerGenerated/UnityEngineDebug.cpp Line: 49)
+
+hit PlayerController(Clone) (distance: 5.36867)
+ 
+(Filename: C:/BuildAgent/work/d63dfc6385190b60/artifacts/StandalonePlayerGenerated/UnityEngineDebug.cpp Line: 49)
+
+Took 20 damage. 20 health remaining
+ 
+(Filename: C:/BuildAgent/work/d63dfc6385190b60/artifacts/StandalonePlayerGenerated/UnityEngineDebug.cpp Line: 49)
+
+Took 20 damage. 20 health remaining
+ 
+(Filename: C:/BuildAgent/work/d63dfc6385190b60/artifacts/StandalonePlayerGenerated/UnityEngineDebug.cpp Line: 49)
+
+hit PlayerController(Clone) (distance: 5.361045)
+ 
+(Filename: C:/BuildAgent/work/d63dfc6385190b60/artifacts/StandalonePlayerGenerated/UnityEngineDebug.cpp Line: 49)
+
+Took 20 damage. 0 health remaining
+ 
+(Filename: C:/BuildAgent/work/d63dfc6385190b60/artifacts/StandalonePlayerGenerated/UnityEngineDebug.cpp Line: 49)
+
+Took 20 damage. 0 health remaining
+ 
+(Filename: C:/BuildAgent/work/d63dfc6385190b60/artifacts/StandalonePlayerGenerated/UnityEngineDebug.cpp Line: 49)
+
+hit TestLevel_01 (distance: 23.66928)
+ 
+(Filename: C:/BuildAgent/work/d63dfc6385190b60/artifacts/StandalonePlayerGenerated/UnityEngineDebug.cpp Line: 49)
+
+hit Capsule (distance: 11.30232)
+ 
+(Filename: C:/BuildAgent/work/d63dfc6385190b60/artifacts/StandalonePlayerGenerated/UnityEngineDebug.cpp Line: 49)
+
+hit Capsule (distance: 5.709551)
+ 
+(Filename: C:/BuildAgent/work/d63dfc6385190b60/artifacts/StandalonePlayerGenerated/UnityEngineDebug.cpp Line: 49)
+
